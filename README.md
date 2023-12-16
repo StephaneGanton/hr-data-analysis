@@ -40,4 +40,4 @@ Going through this guided project, I've learned useful Power BI concepts such as
 
 ### 4- Credits:
 
-The guided project was created by **Ismaila Omeiza Mumuni** through his youtube channel` named [Data and Decision](https://m.youtube.com/watch?v=7EEGhZb2WKY). I'd like to extent my gratitude to him for his valuable content that help me. 
+The guided project was created by **Ismaila Omeiza Mumuni** through his youtube channel named [Data and Decision](https://m.youtube.com/watch?v=0BKlUySopU4&pp=ygUSZGF0YSB3aXRoIGRlY2lzaW9u). I'd like to extent my gratitude to him for his valuable content that help me. 
